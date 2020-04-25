@@ -37,7 +37,7 @@ describe "Magazine App" do
 
   end
 
-  describe "Read Action " do
+  describe "Read Action" do
     describe 'index action' do
       it 'responds with a 200 status code' do
         get "/articles"
@@ -133,10 +133,4 @@ describe "Magazine App" do
     end
 
   end
-
-
-
-
-
-
 end
