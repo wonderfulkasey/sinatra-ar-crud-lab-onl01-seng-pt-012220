@@ -10,5 +10,3 @@ class ApplicationController < Sinatra::Base
 
  get '/'
  end
-
- end
